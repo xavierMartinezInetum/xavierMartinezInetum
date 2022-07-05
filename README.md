@@ -1,5 +1,7 @@
 # Hello! :)
 
+<i>(posar aqui els meus links de les comptes personals de GitHub, GitLab i Linkedin xD)</i>
+
 - 👋 Hi, I’m @xavierMartinezInetum
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
