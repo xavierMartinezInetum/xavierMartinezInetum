@@ -1,6 +1,6 @@
 # Hello! :)
 
-<i>(posar aqui els meus links de les comptes personals de GitHub, GitLab i Linkedin xD)</i>
+*(posar aqui els meus links de les comptes personals de GitHub, GitLab i Linkedin xD)*
 
 - 👋 Hi, I’m Xavier Martínez <!--@xavierMartinezInetum-->
 - 👀 I’m very interested in C#
